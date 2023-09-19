@@ -18,5 +18,5 @@ switch(x){
 
 /*El condicional switch se utiliza para comprobar el valor que 
 le hemos asignado a una variable, para así ejecutar unas líneas
-de código u otras, dependiendo de si se cumple el valor asignado.*/
+de código u otras, dependiendo de si se cumple el valor asignado a cada caso (ej. case=1).*/
 
